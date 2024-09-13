@@ -1,2 +1,2 @@
 # 
-This is a simple chatbot.
+"This chatbot is a basic Python program designed to answer a few specific questions. It responds with predefined answers based on the user's input. The chatbot is straightforward and easy to use, making it a great starting project for learning. It was created in VS Code, using simple code and logic. The focus is on providing quick, basic responses. While limited in scope, it demonstrates how chatbots can interact with users. Perfect for small tasks and experimenting with chatbot functionality."
